@@ -1,0 +1,1 @@
+### This folder contains the dictionary formed by concatenating the text embeddings and emotion embeddings.
